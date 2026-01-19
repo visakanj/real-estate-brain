@@ -25,25 +25,6 @@ Copy the template below and add your entry to the appropriate section:
 
 ---
 ```
-
----
-
-## Unread
-
-<!-- Add new links here -->
-
----
-
-## In Progress
-
-<!-- Move links here when someone starts reading/reviewing -->
-
----
-
-## Completed
-
-<!-- Move links here once reviewed, and add key takeaways -->
-
 ---
 
 ## By Topic
